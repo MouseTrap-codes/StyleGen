@@ -13,10 +13,12 @@ https://github.com/MouseTrap42/StyleGen/assets/125787399/28a26d53-e902-449d-9179
 
 StyleGen Outputs:
 
-prompt: "<loopster style>, quiet bass notes, peaceful ambience"
+prompt: "<loopster_style>, quiet bass notes, peaceful ambience"
+
 https://github.com/MouseTrap42/StyleGen/assets/125787399/3b860f93-79f3-4281-ab49-ee37f0bc49f2
 
 prompt: "<loopster_style>, style electronica music_vibrant, synths and electric drums" 
+
 https://github.com/MouseTrap42/StyleGen/assets/125787399/e38d9c36-8229-4d83-b85f-357031616f7a
 
 
