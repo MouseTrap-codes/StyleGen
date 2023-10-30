@@ -15,6 +15,7 @@ https://github.com/MouseTrap42/StyleGen/assets/125787399/28a26d53-e902-449d-9179
 Dataset of 5 5-second snippets (512x512 spectrograms): 
 https://drive.google.com/drive/folders/1cs7NJLqAzMjZhtDLfKmOA1lmQfhOrfqB?usp=share_link
 
+
 StyleGen Outputs:
 
 prompt: "<loopster_style>, quiet bass notes, peaceful ambience"
