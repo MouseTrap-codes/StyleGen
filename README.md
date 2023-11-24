@@ -30,7 +30,7 @@ prompt: "create an energetic and catchy tune that makes people want to get up an
 https://github.com/MouseTrap42/StyleGen/assets/125787399/d5ba94b2-3405-4eb2-b0e1-34288a52bd7c
 
 
-StyleGen Outputs:
+## StyleGen Outputs:
 
 StyleGen v2 (Dreambooth-LoRA, best result thus far):
 
