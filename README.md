@@ -22,6 +22,7 @@ https://drive.google.com/drive/folders/1cs7NJLqAzMjZhtDLfKmOA1lmQfhOrfqB?usp=sha
 Output from general-purpose text-to-audio model (Riffusion):
 prompt: "create an energetic and catchy tune that makes people want to get up and dance, incorporating lively rhythms and an uplifting melody" 
 
+
 https://github.com/MouseTrap42/StyleGen/assets/125787399/d5ba94b2-3405-4eb2-b0e1-34288a52bd7c
 
 
