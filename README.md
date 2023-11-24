@@ -19,7 +19,7 @@ StyleGen Outputs:
 prompt: "<loopster_style>, quiet bass notes, peaceful ambience"
 
 
-prompt: "<loopster_style>, style electronica music_vibrant, synths and electric drums" 
+prompt: "Loopster style, create an energetic and catchy tune that makes people want to get up and dance, incorporating lively rhythms and an uplifting melody" 
 
 
 
