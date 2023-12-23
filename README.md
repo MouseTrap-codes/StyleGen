@@ -1,5 +1,5 @@
 # StyleGen
-StyleGen is a machine learning training pipeline leveraging stable diffusion processes such as Dreambooth-LORA and Textual Inversion in order to allow users to create models that generate audio that mimics the style of a song but with minor changes through text commands, all done from Google Colab free-tier notebooks through optimization.
+StyleGen is a machine learning training pipeline leveraging stable diffusion processes such as Dreambooth-LORA and Textual Inversion in order to allow users to create models that generate audio that mimics the style of an existing song but with minor changes through text commands, all done from Google Colab free-tier notebooks.
 
 #V2 Demos (Using Dreambooth-LoRA) (Yielded best results as of now) 
 The first demo will be the results of using StyleGen on 5 5-second snippets, converted to spectrograms, of "Loopster" by Kevin MacLeod to create new pieces of audio with a customized generative model fine-tuned to produce audio in the same style. 
