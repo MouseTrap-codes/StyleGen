@@ -5,6 +5,9 @@ Paper: https://drive.google.com/file/d/1QWALtFETloYTAa0UCHojvAywZq-HR_b_/view?us
 
 Presentation: https://youtu.be/cjbR1QCi6iU?si=rm6CGNT6W4RJQEU_
 
+Some libraries used (needed in order for code to run): https://drive.google.com/drive/folders/1_dLYaUHNI0iDi1YXW1tFLv-yNDkU4XpG?usp=share_link
+
+
 
 #V2 Demos (Using Dreambooth-LoRA) (Yielded best results as of now) 
 The first demo will be the results of using StyleGen on 5 5-second snippets, converted to spectrograms, of "Loopster" by Kevin MacLeod to create new pieces of audio with a customized generative model fine-tuned to produce audio in the same style. 
